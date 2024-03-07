@@ -5,15 +5,17 @@ In this guide I will tell you how you, yes you could use git through VS code mak
 Open VS Code
 ###Step 2 
 Locate your local repo or if you have already opened the repo before with or without using a Dev Container you can find it in a list of 5 items below the section labeled recently opened. If you re opened a Dev Container repo you opened before skip to Step 5.
-
-![VS Code Home Page](PicsForGuide/1_OpenVSC.png)
+<img src = "PicsForGuide/1_OpenVSC.png" href = "VS Code Home Page"/>
 ### Step 3
 After opening a repo look in the bottom left of VS code and click on the icon that looks like the image below.
 
-![Dev Container icon with no container](PicsForGuide/3 howVSCLookswithnoDevP2.png)
+<img src= "PicsForGuide/3 howVSCLookswithnoDevP2.png" href = "Dev Container icon with no container"/>
+
 ### Step 4
 After clicking the icon, a drop down menu should open in the top middle of the screen. Once you locate the menu click re-open in Dev Container. (As a side note ensure that docker is running in the background. If it's not running the Dev Container will not open.)
-![Dev Container drop down menu](PicsForGuide/4_reOpenDC.png)
+
+<img src= "PicsForGuide/4 reOpenDC.png" href= "Dev Container drop down menu"/>
+
 ### Step 5
 To ensure Dev Container is running properly look back at the bottom left corner of VS code where the icon was, and it should look like the picture below.
 
@@ -25,18 +27,18 @@ After checking you are in Dev Container and locating the file you want to make c
 ### Step 7
 On top of ensuring you locate Source Control you also need to make sure you are on the correct branch, or if you dont have a branch how you could make one. To tell if you are on the correct branch you can navagate back down to the bottom left of VS code and look right next to the blue Dev container information. If it says main you are in the wrong branch.
 
-![Main branch display](PicsForGuide/7_CheckBranch.png)
+<img src = "PicsForGuide/7_CheckBranch.png" href = "Main branch display"/>
 #### Below will be the image guide with some text to making a new branch
 1. Click on where it displays the current branch name in the bottom left. Afterwards another drop down menu will open and you will click on create new branch. (If you are looking to just change branches you can select from existing branches from the same drop down.)
-![Drop down for making new branches](PicsForGuide/8_MakeNewBranch.png)
-2. Next you would put in a branch name and hit enter as shown below.
-![Text box for inputing name](PicsForGuide/9_EnterBranchName.png)
-![Text box With branch name](PicsForGuide/10_BranchNameEntered.png)
-3. Ensure you are on the correct branch by looking the the bottom left corner again and it should look similar to the image below.
-![Dev Container with branch name](PicsForGuide/11_HowItshouldLookonBranch.png)
-4. Finally if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or latter either is fine.)
 
-	<img src = "PicsForGuide/12 howSCShouldLook.png" href = "Source Control with new branch" width = 300px />
+<img src= "PicsForGuide/8_MakeNewBranch.png" href = "Drop down for making new branches"/>
+2. Next you would put in a branch name and hit enter as shown below.
+<img src = "PicsForGuide/9_EnterBranchName.png" href= "Text box for inputing name"/>
+<img src = "PicsForGuide/10_BranchNameEntered.png" href = "Text box With branch name">
+3. Ensure you are on the correct branch by looking the the bottom left corner again and it should look similar to the image below.
+<img src = "PicsForGuide/11_HowItshouldLookonBranch.png" href = "Dev Container with branch name"/>
+4. Finally if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or latter either is fine.)
+<img src = "PicsForGuide/12 howSCShouldLook.png" href = "Source Control with new branch" width = 300px />
 
 ### Step 8
 Start making changes what ever changes you need to make.
