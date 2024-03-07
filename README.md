@@ -3,9 +3,10 @@ In this guide I will tell you how you, yes you could use git through VS code mak
 
 ### Step 1
 Open VS Code
-###Step 2 
+
+### Step 2 
 Locate your local repo or if you have already opened the repo before with or without using a Dev Container you can find it in a list of 5 items below the section labeled recently opened. If you re opened a Dev Container repo you opened before skip to Step 5.
-<img src = "PicsForGuide/1_OpenVSC.png" href = "VS Code Home Page"/>
+<img src = "PicsForGuide/1 OpenVSC.png" href = "VS Code Home Page"/>
 ### Step 3
 After opening a repo look in the bottom left of VS code and click on the icon that looks like the image below.
 
