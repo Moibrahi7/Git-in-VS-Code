@@ -32,20 +32,20 @@ After checking you are in Dev Container and locating the file you want to make c
 ### Step 7
 On top of ensuring you locate Source Control you also need to make sure you are on the correct branch, or if you dont have a branch how you could make one. To tell if you are on the correct branch you can navagate back down to the bottom left of VS code and look right next to the blue Dev container information. If it says main you are in the wrong branch.
 
-<img src = "PicsForGuide/7_CheckBranch.png" href = "Main branch display"/>
+<img src = "PicsForGuide/7 CheckBranch.png" href = "Main branch display"/>
 
 #### Below will be the image guide with some text to making a new branch
 1. Click on where it displays the current branch name in the bottom left. Afterwards another drop down menu will open and you will click on create new branch. (If you are looking to just change branches you can select from existing branches from the same drop down.)
 
-<img src= "PicsForGuide/8_MakeNewBranch.png" href = "Drop down for making new branches"/>
+<img src= "PicsForGuide/8 MakeNewBranch.png" href = "Drop down for making new branches"/>
 
 2. Next you would put in a branch name and hit enter as shown below.
 
-<img src = "PicsForGuide/9_EnterBranchName.png" href= "Text box for inputing name"/>
-<img src = "PicsForGuide/10_BranchNameEntered.png" href = "Text box With branch name">
+<img src = "PicsForGuide/9 EnterBranchName.png" href= "Text box for inputing name"/>
+<img src = "PicsForGuide/10 BranchNameEntered.png" href = "Text box With branch name">
 3. Ensure you are on the correct branch by looking the the bottom left corner again and it should look similar to the image below.
 
-<img src = "PicsForGuide/11_HowItshouldLookonBranch.png" href = "Dev Container with branch name"/>
+<img src = "PicsForGuide/11 HowItshouldLookonBranch.png" href = "Dev Container with branch name"/>
 4. Finally if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or latter either is fine.)
 
 <img src = "PicsForGuide/12 howSCShouldLook.png" href = "Source Control with new branch" width = 300px />
