@@ -15,7 +15,7 @@ After opening a repo look in the bottom left of VS code and click on the icon th
 <img src= "PicsForGuide/3 howVSCLookswithnoDevP2.png" href = "Dev Container icon with no container"/>
 
 ### Step 3
-After clicking the icon, a drop-down menu should open in the top middle of the screen. Once you locate the menu click re-open in Dev Container. (As a side note ensure that docker is running in the background. If it's not running the Dev Container will not open.)
+After clicking the icon, a drop-down menu should open in the top middle of the screen. Once you locate the menu click re-open in Dev Container. (As a side note ensure that  is running in the background. If it's not running the Dev Container will not open.)
 
 <img src= "PicsForGuide/4 reOpenDC.png" href= "Dev Container drop down menu"/>
 
