@@ -22,7 +22,7 @@ After clicking the icon, a drop-down menu should open in the top middle of the s
 <img src= "PicsForGuide/4 reOpenDC.png" href= "Dev Container drop down menu"/>
 
 ### Step 4
-To ensure the Dev Container is running properly look back at the bottom left corner of VS code where the icon was, and it should look like the picture below.
+To ensure the Dev Container is running properly look back at the bottom left corner of VS code where the icon was, and it should look like two arrowheads sliding past each other, as seen in the picture below.
 
 <img src = "PicsForGuide/5 IfYouAreinDCbottom.png" href = "Dev Container after Connecting" width = 300px />
 
