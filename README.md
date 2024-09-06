@@ -97,7 +97,7 @@ If you have published your branch. The final step you have on making changes to 
 After you try to push, you will get a message that looks like the image below. 
 <img src = "PicsForGuide/21 MessageAfterPushOnNewBranch.png" href = "publishing error"/>
 
-To work around this you will click ok as shown in the image above and a dropdown menu in the top middle with appear to add an origin. Will click on your Forked repo and then it will commit those changes the menu looks like the image below.
+To work around this you will click "OK" as shown in the image above and a dropdown menu in the top middle with appear to add an origin. Will click on your Forked repo and then it will commit those changes the menu looks like the image below.
 
 <img src = "PicsForGuide/22 addOrginRemote.png" href = "Remote seting pull down on VS code"/>
 
