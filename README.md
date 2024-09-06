@@ -35,7 +35,7 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 <img src = "PicsForGuide/7 CheckBranch.png" href = "Main branch display"/>
 
 #### Below is the image guide with some text for making a new branch
-1. Click on where it displays the current branch name in the bottom left. Afterward, another drop-down menu will open and you will click on create a new branch. (If you are looking to just change branches you can select from existing branches from the same drop down.)
+1. Click on where it displays the current branch name in the bottom left. Afterward, another drop-down menu will open and you will click on create a new branch. If you are looking to just change branches you can select from existing branches from the same drop down.
 
 <img src= "PicsForGuide/8 MakeNewBranch.png" href = "Drop down for making new branches"/>
 
