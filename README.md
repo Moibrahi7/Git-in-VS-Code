@@ -1,5 +1,5 @@
 # Using Git in VS Code
-In this guide, I will tell you how to use Git through VS code, making your life significantly easier than before. Am I saying you will never have to use the command line? Technically, VS code pushes and pulls from Git Hub. You do not have to use the console except when you need to roll back after pushing changes. Let’s get started.
+In this guide, I will tell you how to use Git through VS code, making your life significantly easier than before. Am I saying you will never have to use the command line? Technically, VS code pushes and pulls from GitHub. You do not have to use the console except when you need to roll back after pushing changes. Let’s get started.
 
 ## What Should You Know
 The knowledge that you should still know how to use Git commands in the command line. While using git in VS code is very convenient, you will eventually need to use the command line when moving away from VS Code.
@@ -7,7 +7,7 @@ The knowledge that you should still know how to use Git commands in the command 
 ## Setting Up Your Dev Branch
 
 ### Step 1
-Open VS Code. Locate your local repo. If you have already opened the repo before, with or without using a Dev Container, you can find it in a list of 5 items below the section labeled recently opened. If you re-opened a Dev Container repo you opened before, skip to Step 5.
+Open VS Code. Locate your local repo. If you have opened the repo before, with or without using a Dev Container, you can find it in a list of 5 items below the recently opened section. If you re-opened a Dev Container repo you opened before, skip to Step 5.
 
 <img src = "PicsForGuide/1 OpenVSC.png" href = "VS Code Home Page"/>
 
@@ -17,7 +17,7 @@ After opening a repo, look at the bottom left of the VS code and click on the ic
 <img src= "PicsForGuide/3 howVSCLookswithnoDevP2.png" href = "Dev Container icon with no container"/>
 
 ### Step 3
-After clicking the icon, a drop-down menu should open in the top middle of the screen. Once you locate the menu, click re-open in Dev Container. (As a side note, ensure that Docker is running in the background. If it's not running, the Dev Container will not open.)
+After clicking the icon, a drop-down menu should open in the top middle of the screen. Once you locate the menu, click re-open in Dev Container. As a side note, ensure that Docker is running in the background. If it's not running, the Dev Container will not open.
 
 <img src= "PicsForGuide/4 reOpenDC.png" href= "Dev Container drop down menu"/>
 
@@ -32,7 +32,7 @@ After checking that you are in the Dev Container and locating the file you want 
 <img src = "PicsForGuide/6 IfYouAreinDCOpenSC.png" href = "Source Control icon" width = 300px />
 
 ### Step 6
-On top of ensuring you locate Source Control, you also need to make sure you are on the correct branch, or if you don't have a branch, how you could make one. To tell if you are on the correct branch, you can navigate back down to the bottom left of the VS code and look right next to the blue Dev container information. If it says main, you are in the wrong branch.
+In addition to ensuring you locate Source Control, you also need to make sure you are on the correct branch or, if you don't have a branch, how you could make one. To tell if you are on the correct branch, you can navigate back down to the bottom left of the VS code and look right next to the blue Dev container information. If it says main, you are in the wrong branch.
 
 <img src = "PicsForGuide/7 CheckBranch.png" href = "Main branch display"/>
 
@@ -41,7 +41,7 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 
 <img src= "PicsForGuide/8 MakeNewBranch.png" href = "Drop down for making new branches"/>
 
-2. Next, you would put in a branch name and hit enter, as shown below.
+2. Next, put in a branch name and hit enter, as shown below.
 
 <img src = "PicsForGuide/9 EnterBranchName.png" href= "Text box for inputting name"/>
 <img src = "PicsForGuide/10 BranchNameEntered.png" href = "Text box With branch name">
@@ -57,15 +57,12 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 ### Step 7
 Start making changes whatever changes you need to make.
 ### Step 8
-After making your changes, navigate to the Source Control tab, and it will probably look a bit like the image below.
+After making your changes, navigate to the Source Control tab, which will probably look a bit like the image below.
 
 <img src = "PicsForGuide/13 afterChanges.png" href = "Source Control with all the changes made since last commt" width = 300px />
-
-Now, I know this looks like a lot of stuff. Probably a lot more stuff than what you remember changing. A lot of these files change because of how the Java extensions work. They constantly modify the file and change values for it to work, and it is imperative that you only choose the items you want to commit. But first, you have to locate them in this list.
+I know this looks like a lot of stuff. Probably a lot more stuff than what you remember changing. A lot of these files change because of how the Java extensions work. They constantly modify the file and change values for it to work, and it is imperative that you only choose the items you want to commit. But first, you have to locate them in this list.
 
 <img src = "PicsForGuide/14 afterChangesp2.png" href = "Source Control with all the changes made since last commt with the files I want to commit highlighted" width = 300px />
-
-Now you are ready for the next step.
 
 ### Step 9
 Now that you have figured out which files you want to commit, it's time to stage them. You can stage an item by hovering over the name of the icon with your mouse, and you should be able to see a "+." Once you see that + you can click on it and then it will be staged. With that, if you stage an item that you did not mean to stage in the staged items section, you hover over the name of the item you want to remove, and after that, there should be a "-" sign that, on click, would unstage your item. Below are images of them being staged, as well as the + sign and the - sign.
