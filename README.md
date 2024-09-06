@@ -55,7 +55,7 @@ In addition to ensuring you locate Source Control, you also need to make sure yo
 ## Committing Your Changes
 
 ### Step 7
-Start making changes whatever changes you need to make.
+Start making whatever changes you need to make.
 ### Step 8
 After making your changes, navigate to the Source Control tab, which will probably look a bit like the image below.
 
@@ -65,7 +65,7 @@ I know this looks like a lot of stuff. Probably a lot more stuff than what you r
 <img src = "PicsForGuide/14 afterChangesp2.png" href = "Source Control with all the changes made since last commt with the files I want to commit highlighted" width = 300px />
 
 ### Step 9
-Now that you have figured out which files you want to commit, it's time to stage them. You can stage an item by hovering over the name of the icon with your mouse, and you should be able to see a "+." Once you see that + you can click on it and then it will be staged. With that, if you stage an item that you did not mean to stage in the staged items section, you hover over the name of the item you want to remove, and after that, there should be a "-" sign that, on click, would unstage your item. Below are images of them being staged, as well as the + sign and the - sign.
+Now that you have figured out which files you want to commit, it's time to stage them. You can stage an item by hovering over the name of the file with your mouse, and you should be able to see a "+". Once you see that +, you can click on it, and then it will be staged. With that, if you stage an item that you did not mean to stage in the staged items section, you hover over the name of the item you want to remove, and after that, there should be a "-" sign that, on click, would unstage your item. Below are images of them being staged, as well as the + sign and the - sign.
 
 <img src = "PicsForGuide/15 ToStageAChange.png" href = "Source Control with with the Stage changes sign highlighted" width = 300px />
 
