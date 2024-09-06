@@ -1,5 +1,5 @@
 # Using Git in VS Code
-In this guide, I will tell you how you could use git through VS code making your life significantly easier than before. Am I saying you will never have to use the command line? technically as far as VS code is concerned with pushing and pulling from Git Hub. You do not have to use the console except when you would need to roll back after pushing changes, let’s get started.
+In this guide, I will tell you how you could use Git through VS code making your life significantly easier than before. Am I saying you will never have to use the command line? technically as far as VS code is concerned with pushing and pulling from Git Hub. You do not have to use the console except when you would need to roll back after pushing changes, let’s get started.
 
 ## What Should You Know
 The knowledge that you should still have an idea of how to use Git commands in the command line. While using git in VS code is very convenient, you will eventually need to use the command line when you have to move away from VS Code.
