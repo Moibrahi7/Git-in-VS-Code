@@ -4,6 +4,8 @@ In this guide, I will tell you how you could use git through VS code making your
 ## What Should You Know
 The knowledge that you should still have an idea of how to use Git commands in the command line. While using git in VS code is very convenient, you will eventually need to use the command line when you have to move away from VS Code.
 
+## Setting Up Your Dev Branch
+
 ### Step 1
 Open VS Code. Locate your local repo or if you have already opened the repo before with or without using a Dev Container you can find it in a list of 5 items below the section labeled recently opened. If you re-opened a Dev Container repo you opened before skip to Step 5.
 
@@ -35,7 +37,7 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 <img src = "PicsForGuide/7 CheckBranch.png" href = "Main branch display"/>
 
 #### Below is the image guide with some text for making a new branch
-1. Click on where it displays the current branch name in the bottom left. Afterward, another drop-down menu will open and you will click on create a new branch. If you are looking to just change branches you can select from existing branches from the same drop down.
+1. Click on where it displays the current branch name in the bottom left. Afterward, another drop-down menu will open and you will click on Create a new branch. If you are looking to just change branches you can select from existing branches from the same drop down.
 
 <img src= "PicsForGuide/8 MakeNewBranch.png" href = "Drop down for making new branches"/>
 
@@ -49,6 +51,8 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 4. Finally, if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or later either is fine.)
 
 <img src = "PicsForGuide/12 howSCShouldLook.png" href = "Source Control with new branch" width = 300px />
+
+## Committing Your Changes
 
 ### Step 7
 Start making changes whatever changes you need to make.
@@ -71,6 +75,8 @@ Now that you have figured out which files you want to commit it's time to stage 
 <img src = "PicsForGuide/16 unstageChange.png" href = "Source Control with an item staged that was needs to be removed" width = 300px />
 
 <img src = "PicsForGuide/17 afterStageingChanges.png" href = "Source Control with the items need staged" width = 300px />
+
+## Publishing to GitHub
 
 ### Step 10 
 The next step is committing, in the Source Control section you can also commit your changes. First, you have to enter a commit message and then click commit. As shown in the images below. 
