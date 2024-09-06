@@ -46,7 +46,7 @@ On top of ensuring you locate Source Control, you also need to make sure you are
 3. Ensure you are on the correct branch by looking the the bottom left corner again and it should look similar to the image below.
 
 <img src = "PicsForGuide/11 HowItshouldLookonBranch.png" href = "Dev Container with branch name"/>
-4. Finally, if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or latter either is fine.)
+4. Finally, if you are on the Source Control Tab it should look like the image below. (You can choose to publish the branch now or later either is fine.)
 
 <img src = "PicsForGuide/12 howSCShouldLook.png" href = "Source Control with new branch" width = 300px />
 
@@ -57,7 +57,7 @@ After making your changes navigate to the Source Control tab and it will probabl
 
 <img src = "PicsForGuide/13 afterChanges.png" href = "Source Control with all the changes made since last commt" width = 300px />
 
-Now I know this looks like a lot of stuff. Probably a lot more stuff than what you remember changing. The reason a lot of these files change is due to how the Dev Container works, it constantly modifies the file and changes values for it to work and it is imperative that you only choose the items you want to commit. But first, you have to locate them in this list.
+Now I know this looks like a lot of stuff. Probably a lot more stuff than what you remember changing. The reason a lot of these files change is due to how the Java extensions work, it constantly modifies the file and changes values for it to work and it is imperative that you only choose the items you want to commit. But first, you have to locate them in this list.
 
 <img src = "PicsForGuide/14 afterChangesp2.png" href = "Source Control with all the changes made since last commt with the files I want to commit highlighted" width = 300px />
 
