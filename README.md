@@ -94,7 +94,7 @@ If you have published your branch. The final step you have on making changes to 
 <img src = "PicsForGuide/20 toPush.png" href = "push sign is displayed" width = 300px />
 
 ### Step 13
-After you tried to bush you got a message that looks like the image below. 
+After you try to push, you will get a message that looks like the image below. 
 <img src = "PicsForGuide/21 MessageAfterPushOnNewBranch.png" href = "publishing error"/>
 
 To work around this you will click ok as shown in the image above and a dropdown menu in the top middle with appear to add an origin. Will click on your Forked repo and then it will commit those changes the menu looks like the image below.
